@@ -1,0 +1,13 @@
+# Format:
+# MovieName,type(movie/series),year,month,day,genre,userRating
+
+Jaws,movie,Thriller,1975,7,29,2
+The Martian,movie,Sci-Fi,2015,10,2,5
+The Platform,movie,Thriller,2020,2,21,3
+Interstellar,movie,Sci-Fi,2014,10,26,5
+Sinister,movie,Horror,2012,10,12,4
+Parasite,movie,Thriller,2019,10,5,5
+Doctor Sleep,movie,Horror,2019,10,30,3
+Hereditary,movie,Horror,2018,6,7,3
+A Quiet Place,movie,Horror,2018,4,6,5
+22 Jump Street,movie,Comedy,2014,6,13,4
